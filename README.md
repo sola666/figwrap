@@ -6,7 +6,7 @@ A simple class to wrap pyfiglet and colorama to make it easier to render figlet 
 
 Download the package and import from here, I will be uploading this to pypi as a pip package when I get a moment.
 
-This will become included in the HELIOS lib when I can update the project.
+This will be included in the HELIOS lib when I can update the project.
 
 ## Usage
 
