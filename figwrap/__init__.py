@@ -1,1 +1,1 @@
-import figwrap
+from figwrap import figwrap
